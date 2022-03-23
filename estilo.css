@@ -1,0 +1,18 @@
+body{
+    background:white ;
+    font: nornal 15pt;
+}
+
+header{
+    color: ;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+    box-shadow: ;
+}
